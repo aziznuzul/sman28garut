@@ -35,6 +35,10 @@ p {
   line-height: 1.8;
   font-weight: 400; }
 
+  p .lead{
+    font-family:'Raleway', sans-serif;
+  }
+
 a,
 a:hover,
 a:focus {

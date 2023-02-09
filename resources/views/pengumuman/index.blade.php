@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="section-heading">
-                    <h3>List Pengumuman</h3>
+                    <h3>Daftar Pengumuman</h3>
                 </div>
             </div>
         </div>

@@ -29,6 +29,7 @@ class ArtikelController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function index()
+    
     {
         $artikel = Artikel::with(['user','kategoriArtikel'])->get();
         return view('admin.artikel.index',compact('artikel'));

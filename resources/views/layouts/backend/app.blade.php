@@ -61,9 +61,9 @@
   <footer class="main-footer">
     <strong>Copyright &copy; {{ date('Y') }} SMAN 28 Garut.</strong>
     All rights reserved.
-    <div class="float-right d-none d-sm-inline-block">
+    {{-- <div class="float-right d-none d-sm-inline-block">
       Template By <a href="http://adminlte.io">AdminLTE.io</a>
-    </div>
+    </div> --}}
   </footer>
 
 </div>
